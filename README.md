@@ -44,6 +44,7 @@ I leveraged several tools to assist in rapid development:
 - Code optimization
 - Additional security features
 - Better documentation of code functionality
+- Create a functioning backend (This is just a static front end)
 
 ## Acknowledgments
 Built as a learning exercise and challenge assessment. While the code may not be production-ready, it serves as a valuable proof-of-concept and learning milestone in my development journey.
