@@ -5,7 +5,7 @@ A rapid prototype demonstrating browser-based Touch ID authentication using WebA
 
 ## Demo Video
 <video width="640" height="360" controls>
-  <source src="https://github.com/MaxMeyberg/My-First-User-Auth-w-Touch-ID-/raw/main/Auth_Front_End_Max%20Screen%20Recording.mov" type="video/mp4">
+  <source src="https://github.com/MaxMeyberg/My-First-User-Auth-w-Touch-ID-/raw/main/Auth_Front_End_Max%20Screen%20Recording.mov" type="video/mov">
 </video>
 
 ## Features
