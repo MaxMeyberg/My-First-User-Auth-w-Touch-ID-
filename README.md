@@ -3,6 +3,9 @@
 ## Overview
 A rapid prototype demonstrating browser-based Touch ID authentication using WebAuthn API. Built in under 24 hours as part of a challenge assessment, this project represents my first venture into web authentication and React development.
 
+## Demo Video
+[![Watch the video](https://raw.githubusercontent.com/MaxMeyberg/My-First-User-Auth-w-Touch-ID-/blob/main/Auth_Front_End_Max%20Screen%20Recording.mov)](https://raw.githubusercontent.com/MaxMeyberg/My-First-User-Auth-w-Touch-ID-/blob/main/Auth_Front_End_Max%20Screen%20Recording.mov)
+
 ## Features
 - Browser-based fingerprint authentication
 - WebAuthn API integration
