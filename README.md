@@ -5,7 +5,7 @@ A rapid prototype demonstrating browser-based Touch ID authentication using WebA
 
 ## Demo Video
 
-[![Watch the video](https://raw.githubusercontent.com/MaxMeyberg/My-First-User-Auth-w-Touch-ID-/main/thumbnail.jpg)](https://raw.githubusercontent.com/MaxMeyberg/My-First-User-Auth-w-Touch-ID-/main/demo_video.mov)
+[![Watch the video](https://raw.githubusercontent.com/MaxMeyberg/My-First-User-Auth-w-Touch-ID-/main/thumbnail.jpg)](https://raw.githubusercontent.com/MaxMeyberg/My-First-User-Auth-w-Touch-ID-/main/demo_video.mp4)
 
 ## Features
 - Browser-based fingerprint authentication
