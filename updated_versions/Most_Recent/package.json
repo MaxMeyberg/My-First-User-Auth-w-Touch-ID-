@@ -1,0 +1,16 @@
+{
+  "name": "my-web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "browser-sync start --server --files '*.html, *.css, *.js' --port 3000 --https"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "browser-sync": "^2.29.3"
+  }
+}

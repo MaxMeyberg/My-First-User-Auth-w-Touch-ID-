@@ -1,0 +1,6 @@
+{
+  "appId": "com.biometric.app",
+  "appName": "BiometricApp",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
